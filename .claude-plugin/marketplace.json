@@ -10,7 +10,10 @@
     {
       "name": "flyai",
       "description": "Travel search powered by Fliggy — search flights, hotels, attractions, concerts, and more with natural language",
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alibaba-flyai/flyai-skill.git"
+      },
       "version": "1.0.10",
       "author": {
         "name": "alibaba-flyai"
