@@ -1,0 +1,21 @@
+{
+  "name": "flyai",
+  "description": "Travel search powered by Fliggy — search flights, hotels, attractions, concerts, and more with natural language",
+  "version": "1.0.10",
+  "author": {
+    "name": "alibaba-flyai",
+    "url": "https://open.fly.ai/"
+  },
+  "homepage": "https://open.fly.ai/",
+  "repository": "https://github.com/alibaba-flyai/flyai-skill",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "flights",
+    "hotels",
+    "attractions",
+    "fliggy",
+    "booking",
+    "search"
+  ]
+}
