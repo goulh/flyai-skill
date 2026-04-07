@@ -9,8 +9,11 @@
   </p>
   <p align="center">
     <a href="https://www.npmjs.com/package/@fly-ai/flyai-cli"><img src="https://img.shields.io/npm/v/@fly-ai/flyai-cli?label=flyai-cli&color=blue" alt="npm version"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"></a>
+    <a href="https://www.npmjs.com/package/@fly-ai/flyai-cli"><img src="https://img.shields.io/npm/dw/@fly-ai/flyai-cli?label=npm%20downloads&color=blue" alt="npm downloads"></a>
+    <a href="https://clawhub.ai/alibaba-flyai/flyai-skill"><img src="https://img.shields.io/badge/clawhub-available-purple" alt="ClawHub"></a>
     <a href="https://github.com/alibaba-flyai/flyai-skill/stargazers"><img src="https://img.shields.io/github/stars/alibaba-flyai/flyai-skill?style=social" alt="GitHub Stars"></a>
+    <a href="https://github.com/alibaba-flyai/flyai-skill/forks"><img src="https://img.shields.io/github/forks/alibaba-flyai/flyai-skill?style=social" alt="GitHub Forks"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"></a>
     <a href="https://github.com/alibaba-flyai/flyai-skill"><img src="https://img.shields.io/badge/version-1.0.14-orange" alt="Skill Version"></a>
   </p>
   <p align="center">
